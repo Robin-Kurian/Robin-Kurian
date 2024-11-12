@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full Stack Developer @Mobiux-Labs, exploring the world of app & web development.<br>🚀 Crafting innovative solutions and user-centric applications.<br>⚡ Focused on enhancing performance and driving business success.<br><br>🤝 Love collaborating with like-minded developers.<br>💡 Hustling the heart out to create something big and beautiful.<br>👥 Check out other works with my team: @Evrz-Developers<br>📬 Connect with me if you want to chat!
+👨‍💻 Full Stack Developer at [![Mobiux-Labs](https://img.shields.io/badge/MobiuxLabs-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mobiux-Labs/), exploring the world of app & web development.<br>🚀 Crafting innovative solutions and user-centric applications.<br>⚡ Focused on enhancing performance and driving business success.<br><br>🤝 Love collaborating with like-minded developers.<br>💡 Hustling the heart out to create something big and beautiful.<br>👥 Check out other works with my team: @Evrz-Developers<br>📬 Connect with me if you want to chat!
 
 
 ## 🌐 Socials:
