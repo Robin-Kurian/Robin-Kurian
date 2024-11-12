@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Robin-Kurian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Robin-Kurian&icon=2&color=0)](https://visitcount.itsvg.in)
