@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full Stack Developer with several years of experience at reputed startups like [@Mobiux-Labs](www.mobiux.com), [@Cybrosys](www.cybrosys.com) etc, exploring the world of app & web development.<br>🚀 Crafting innovative solutions and user-centric applications.<br>⚡ Focused on enhancing performance and driving business success.<br><br>🤝 Love collaborating with like-minded developers.<br>💡 Hustling the heart out to create something big and beautiful.<br>👥 Check out other works with my team: [@Evrz-Developers](https://github.com/Evrz-Developers)<br>📬 [Connect](mailto:dev.robinkurian@gmail.com) with me if you want to chat!
+👨‍💻 Full Stack Developer with several years of experience at reputed startups like [@Mobiux-Labs](www.mobiux.com), [@Cybrosys](www.cybrosys.com) etc, exploring the world of app & web development.<br>🚀 Crafting innovative solutions and user-centric applications.<br>⚡ Focused on enhancing performance and driving business success.<br>🤝 Love collaborating with like-minded developers.<br>👥 Check out other works with my team: [@Evrz-Developers](https://github.com/Evrz-Developers)<br>📬 [Connect](mailto:dev.robinkurian@gmail.com) with me if you want to chat!
 
 
 
