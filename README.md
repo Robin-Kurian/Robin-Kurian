@@ -1,7 +1,7 @@
 <!-- Pixel Banner -->
 <!-- Animated Typing Header -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=38BDF8&left=true&vCenter=true&width=800&lines=Hello+there+.+.+.;I+am+Robin!;Your+friendly+neighbourhood+Software+techie+😅;Who+loves+creating+flawless+systems.;What+I'm+Good+At?;Building+Scalable+Web+%26+Mobile+Apps;Using+Next.js+%7C+React+%7C+Expo+%7C+Django+etc.;Happy+to+see+you+here...;Plz+Ping+me+your+purpose+of+visit;Ah-sh*t,+here+we+go+again" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=38BDF8&left=true&vCenter=true&width=800&lines=Hello+there+.+.+.;I+am+Robin!;Your+friendly+neighbourhood+Software+techie+😅;Who+loves+creating+flawless+systems.;What+I'm+Good+At?;Building+Scalable+Web+%26+Mobile+Apps;Using+Next.js+%7C+React+%7C+Expo+%7C+Django+etc.;Happy+to+see+you+here+.+.+.;Plz+Ping+me+your+purpose+of+visit.;Ah-sh!t,+here+we+go+again." />
 </p>  
 
 #### Happyplace Technologies • ISPG Technologies • Mobiux Labs • Cybrosys technologies • Strokx tech
