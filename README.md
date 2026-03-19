@@ -1,24 +1,83 @@
-# 💫 About Me:
-👨‍💻 Full Stack Developer with several years of experience at reputed startups like [@Mobiux-Labs](www.mobiux.com), [@Cybrosys](www.cybrosys.com) etc, exploring the world of app & web development.<br>🚀 Crafting innovative solutions and user-centric applications.<br>⚡ Focused on enhancing performance and driving business success.<br>🤝 Love collaborating with like-minded developers.<br>👥 Check out other works with my team: [@Evrz-Developers](https://github.com/Evrz-Developers)<br>📬 [Connect](mailto:dev.robinkurian@gmail.com) with me if you want to chat!
+<!-- Pixel Banner -->
+<!-- Animated Typing Header -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&left=true&vCenter=true&width=800&lines=Hello+there+.+.+.;It's,+Robin+Kurian!;Your+friendly+neighbourhood+Software+Engineer,;who+craves+creating+flawless+systems.;What+I+am+Good+at?;Next.js+%7C+React+%7C+Expo+%7C+React+Native+%7C+Django;Building+Scalable+Web+%26+Mobile+Apps;End+Of+Line;" />
+</p>
 
+#### Busy building scalable stuff for companies like Happyplace & Formerly for ISPG Technologies, Mobiux Labs, Cybrosys etc.
 
+📬 Send your thoughts to: [@connect@itsrobin.in](mailto:connect@itsrobin.in) or [@dev.robinkurian@gmail.com](mailto:dev.robinkurian@gmail.com)  
+👥 Collab Projects: [@Evrz-Developers](https://github.com/Evrz-Developers) 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.cipher.head) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-robin-kurian/) 
-
-# 💻 Tech Stack:
-![NextJs](https://img.shields.io/badge/NextJs-%23ffffff.svg?style=for-the-badge&logo=Next.js&logoColor=black) ![React](https://img.shields.io/badge/react-js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/REST-FRAMEWORK-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ED8B00.svg?style=for-the-badge&logo=strapi&logoColor=white)  ![Supabase](https://img.shields.io/badge/supabase-%233ecf8e.svg?style=for-the-badge&logo=supabase&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23E5D0AC.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![API](https://img.shields.io/badge/api-%232C8EBB.svg?style=for-the-badge&logo=Electron&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe-photoshop-%23FF0000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![ES6](https://img.shields.io/badge/ES6-02303A.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-[//]: #![](https://github-readme-stats.vercel.app/api?username=Robin-Kurian&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Robin-Kurian&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Kurian&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Robin-Kurian&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+### 💻 Explore My Work:
+[![Portfolio](https://img.shields.io/badge/Portfolio%20website-ffffff?style=flat&logo=google-chrome&logoColor=000000)](https://itsrobin.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/the.cipher.head)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-robin-kurian/) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Robin-Kurian&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧩 Solutions I Deliver:
+
+![Ecommerce](https://img.shields.io/badge/E--commerce%20Platforms-0ea5e9?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM%20Dashboards-22c55e?style=for-the-badge)
+![CMS](https://img.shields.io/badge/Portfolio%20%2B%20CMS-a855f7?style=for-the-badge)
+![Static](https://img.shields.io/badge/Static%20Websites-f97316?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile%20Apps-38bdf8?style=for-the-badge)
+![API](https://img.shields.io/badge/Scalable%20APIs-ef4444?style=for-the-badge)
+![Whatever](https://img.shields.io/badge/You%20name%20it,%20let's%20build%20it-0ea5e9?style=for-the-badge)
+
+### 🚀 Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-1E1E1E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1C1C?style=for-the-badge&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-DC2626?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend & APIs
+![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-052e16?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/REST_Framework-991B1B?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-B45309?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-065F46?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 🗄️ Database  <!-- FIXED CONTRAST -->
+![PostgreSQL](https://img.shields.io/badge/Postgres-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1F2937?style=for-the-badge&logo=mysql&logoColor=FACC15)
+![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
+
+---
+
+### ☁️ DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Docker](https://img.shields.io/badge/Docker-0369A1?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🛠️ Other Tools
+![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-9A3412?style=for-the-badge&logo=postman&logoColor=FFEDD5)
+![Figma](https://img.shields.io/badge/Figma-7C3AED?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-075985?style=for-the-badge&logo=wordpress&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-020617?style=for-the-badge&logo=three.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1D4ED8?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Robin-Kurian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Kurian&theme=dark&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Robin-Kurian&icon=2&color=0)](https://visitcount.itsvg.in)
