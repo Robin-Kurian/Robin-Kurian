@@ -1,10 +1,10 @@
 <!-- Pixel Banner -->
 <!-- Animated Typing Header -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&left=true&vCenter=true&width=800&lines=Hello+there+.+.+.;It's,+Robin+Kurian!;Your+friendly+neighbourhood+Software+Engineer.;Who+craves+creating+flawless+systems.;What+I+am+Good+at?;Next.js+%7C+React+%7C+Expo+%7C+React+Native+%7C+Django;Building+Scalable+Web+%26+Mobile+Apps;End+Of+Line;" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&left=true&vCenter=true&width=800&lines=Hello+there+.+.+.;It's,+Robin+Kurian!;Your+friendly+neighbourhood+Software+Engineer.;Who+craves+creating+flawless+systems.;What+I+am+Good+at?;Next.js+%7C+React+%7C+Expo+%7C+React+Native+%7C+Django;Building+Scalable+Web+%26+Mobile+Apps;End+Of+Line;" />
+</p>  
 
-#### 'Busy cooking scalable stuff for companies like Happyplace & Formerly for ISPG Technologies, Mobiux Labs, Cybrosys etc.'
+#### Happyplace Technologies • ISPG Technologies • Mobiux Labs • Cybrosys technologies • Strokx tech
 
 📬 Send your thoughts to: [@connect@itsrobin.in](mailto:connect@itsrobin.in) or [@dev.robinkurian@gmail.com](mailto:dev.robinkurian@gmail.com)  
 👥 Collab Projects: [@Evrz-Developers](https://github.com/Evrz-Developers) 
